@@ -1,9 +1,9 @@
 # Ecommerce-Dashboard
 
-### 1. Project Title / Headline
-🛍️ E-commerce Analytics: US Sales & Profit Insights Dashboard. A dynamic, interactive Power BI dashboard designed to analyze end-to-end e-commerce sales performance—focusing on Year-to-Date (YTD) metrics, regional trends, product performance, and customer segmentation.
+### 1. E-Commerce Analytics:
+ US Sales & Profit Insights Dashboard. A dynamic, interactive Power BI dashboard designed to analyze end-to-end e-commerce sales performance—focusing on Year-to-Date (YTD) metrics, regional trends, product performance, and customer segmentation.
 
-### 2. Short Description / Purpose
+### 2. Purpose:
 This dashboard provides a comprehensive overview of sales activities for a US-based e-commerce company. It tracks key performance indicators (KPIs) like Sales, Profit, Quantity, and Profit Margin, comparing current performance against the previous year (YoY). The tool is intended for sales managers and stakeholders to identify best-performing regions, optimize product inventory, and uncover profitable customer segments.
 
 ### 3. Tech Stack
@@ -20,35 +20,33 @@ The dashboard was built using the following tools and technologies:
 📅 Date Table – A custom calendar table created to support accurate time-intelligence calculations.
 
 ### 4. Data Source
-Source: Kaggle (Modified US E-commerce Dataset) The project utilizes two primary data tables:
+Source: Kaggle (US E-commerce Dataset) 
+
+The project utilizes two primary data tables:
 
 E-commerce Data: Contains ~113k rows of transactional data including Order Date, Customer ID, Product Name, Category, Sales, Profit, Quantity, and Shipping Mode.
-
 US State Lat/Long: A supplementary table containing latitude and longitude codes for US states to enable accurate map visualizations.
 
-### 5. Features / Highlights
-Business Problem Monitoring year-over-year growth in a fast-paced e-commerce environment is challenging without centralized data. Stakeholders need to quickly answer:
+### 5. Features:
+Business Problem Monitoring year-over-year growth in a fast-paced e-commerce environment is challenging without centralized data. 
+
+Stakeholders need to quickly answer:
 
 Is our profit margin increasing or decreasing compared to last year?
-
 Which states drive the most revenue?
-
 Which products are dragging down overall performance?
 
 Goal of the Dashboard To provide a centralized view of sales health that enables:
 
 Real-time monitoring of YTD Sales, Profit, and Quantity.
-
 Identification of declining categories or regions.
-
 Strategic decision-making regarding inventory and marketing focus.
 
-Walkthrough of Key Visuals
+#### Walkthrough of Key Visuals:
 
 KPI Banner (Top):
 
 Displays YTD Sales, YTD Profit, YTD Quantity, and YTD Profit Margin.
-
 Includes Sparklines to show monthly trends and Dynamic Icons (Green/Red arrows) to indicate positive or negative YoY growth.
 
 Sales by Category (Matrix):
