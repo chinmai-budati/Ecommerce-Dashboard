@@ -82,4 +82,4 @@ Product Strategy: "Bottom 5 Products" analysis helps in deciding whether to disc
 Regional Focus: The map highlights that states like California often drive the highest sales, suggesting where marketing budget should be allocated.
 
 ### 6. Screenshot:
-![Dashboard Preview]((https://github.com/chinmai-budati/Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard.png))
+![Dashboard Preview](https://github.com/chinmai-budati/Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard.png)
