@@ -44,40 +44,41 @@ Strategic decision-making regarding inventory and marketing focus.
 
 #### Walkthrough of Key Visuals:
 
-KPI Banner (Top):
+• KPI Banner (Top):
 
 Displays YTD Sales, YTD Profit, YTD Quantity, and YTD Profit Margin.
 Includes Sparklines to show monthly trends and Dynamic Icons (Green/Red arrows) to indicate positive or negative YoY growth.
 
-Sales by Category (Matrix):
+• Sales by Category (Matrix):
 
 A detailed breakdown of sales by category (e.g., Furniture, Office Supplies) with conditional formatting to highlight growth trends.
 
-Sales by State (Map):
+• Sales by State (Map):
 
 A bubble map visualization where bubble size represents sales volume. Includes a zoom feature and region-based color coding (West, East, Central, South).
 
-Top 5 & Bottom 5 Products (Bar Charts):
+• Top 5 & Bottom 5 Products (Bar Charts):
 
 Two bar charts side-by-side to instantly identify the best-selling products and the lowest-performing items to assist with inventory decisions.
 
-Regional & Shipping Analysis (Donut Charts):
+• Regional & Shipping Analysis (Donut Charts):
 
-Sales by Region: Visualizes revenue distribution across the four main US regions.
+• Sales by Region: Visualizes revenue distribution across the four main US regions.
 
-Sales by Shipping Type: Analyzes the popularity of shipping classes (Standard, First Class, etc.).
+• Sales by Shipping Type: Analyzes the popularity of shipping classes (Standard, First Class, etc.).
 
-Interactive Slicers:
+• Interactive Slicers:
 
 Consumer Segment Slicer: Allows users to filter the entire dashboard by segment (Consumer, Corporate, Home Office).
 
-Business Impact & Insights
+#### Business Impact & Insights
 
-Trend Analysis: The sparklines and YoY metrics allow for immediate detection of months where sales dipped, prompting investigation.
+• Trend Analysis: The sparklines and YoY metrics allow for immediate detection of months where sales dipped, prompting investigation.
 
-Product Strategy: "Bottom 5 Products" analysis helps in deciding whether to discontinue items or run promotions.
+• Product Strategy: "Bottom 5 Products" analysis helps in deciding whether to discontinue items or run promotions.
 
-Regional Focus: The map highlights that states like California often drive the highest sales, suggesting where marketing budget should be allocated.
+• Regional Focus: The map highlights that states like California often drive the highest sales, suggesting where marketing budget should be allocated.
 
 ### 6. Screenshot:
 ![Dashboard Preview](https://github.com/chinmai-budati/Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard.png)
+
