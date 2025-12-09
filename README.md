@@ -1,7 +1,7 @@
 # Ecommerce-Dashboard
 
 ### 1. Project Title / Headline
-🛍️ E-commerce Analytics: US Sales & Profit Insights Dashboard A dynamic, interactive Power BI dashboard designed to analyze end-to-end e-commerce sales performance—focusing on Year-to-Date (YTD) metrics, regional trends, product performance, and customer segmentation.
+🛍️ E-commerce Analytics: US Sales & Profit Insights Dashboard. A dynamic, interactive Power BI dashboard designed to analyze end-to-end e-commerce sales performance—focusing on Year-to-Date (YTD) metrics, regional trends, product performance, and customer segmentation.
 
 ### 2. Short Description / Purpose
 This dashboard provides a comprehensive overview of sales activities for a US-based e-commerce company. It tracks key performance indicators (KPIs) like Sales, Profit, Quantity, and Profit Margin, comparing current performance against the previous year (YoY). The tool is intended for sales managers and stakeholders to identify best-performing regions, optimize product inventory, and uncover profitable customer segments.
