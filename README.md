@@ -25,6 +25,7 @@ Source: Kaggle (US E-commerce Dataset)
 The project utilizes two primary data tables:
 
 E-commerce Data: Contains ~113k rows of transactional data including Order Date, Customer ID, Product Name, Category, Sales, Profit, Quantity, and Shipping Mode.
+
 US State Lat/Long: A supplementary table containing latitude and longitude codes for US states to enable accurate map visualizations.
 
 ### 5. Features:
